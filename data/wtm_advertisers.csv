@@ -1,5 +1,0 @@
-id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-4e53437d-6928-409a-b651-e7e2aa24710f,KBS-Kitchen Bakery Supply,2023-09-08T05:06:06.128Z,2bf7a966-0323-4137-90b6-3100db4170b5,ZZZ,Guatemala,gt,336949629982937,KBS-Kitchen Bakery Supply,Facebook
-d931226b-a439-436e-ad59-6a721e3d640e,MedicalFile,2023-09-08T05:06:06.133Z,a302e502-a822-448f-815f-46c124ede37b,ZZZ,Guatemala,gt,1871847356466613,MedicalFile,Facebook
-ccfac2f7-c3e5-4eb1-bfb9-87417dfb5627,Aby's Gummy,2023-09-09T05:05:58.718Z,ee69a3ab-68e4-47fd-afb8-97b23d7a2e9a,ZZZ,Guatemala,gt,100233652197034,Aby's Gummy,Facebook
-04f42940-a952-4845-8849-561626e63f2a,IPCom,2023-09-11T05:06:05.357Z,09d67e20-b4b3-4954-8967-e517223664e7,ZZZ,Guatemala,gt,109096092455749,IPCom,Facebook
